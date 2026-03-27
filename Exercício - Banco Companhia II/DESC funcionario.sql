@@ -1,0 +1,2 @@
+USE Companhia;
+DESC funcionario;
